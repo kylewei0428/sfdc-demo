@@ -1,0 +1,1412 @@
+[
+    [
+        "C:\\sfdc dx project\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547794593676,
+            "changeTime": 1547794593676,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547794593676,
+            "changeTime": 1547794593676,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547800402391,
+            "changeTime": 1547800402391,
+            "contentHash": "2e85c865e9c07878c1204743f252627bb243ecf2"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547796779996,
+            "changeTime": 1547796779996,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 1041,
+            "modifiedTime": 1547796779996,
+            "changeTime": 1547796779996,
+            "contentHash": "4e1c555e89ee6ac79ef1d86818bb828285e458c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547794882745,
+            "changeTime": 1547794882745,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547794882760,
+            "changeTime": 1547795045783,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547794882759,
+            "changeTime": 1547794882759,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1547796372615,
+            "changeTime": 1547796372615,
+            "contentHash": "55288e77cd6c7aa8b6fbe1339f24fedd3751519e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1547794882752,
+            "changeTime": 1547794882752,
+            "contentHash": "908257bc05e5ea58368667d2c873c9114321f516",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547794882756,
+            "changeTime": 1547794882756,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547794882760,
+            "changeTime": 1547794882760,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547794882758,
+            "changeTime": 1547794882758,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1547794882753,
+            "changeTime": 1547794882753,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547794882754,
+            "changeTime": 1547794882754,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547794882757,
+            "changeTime": 1547794882757,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547800402606,
+            "changeTime": 1547800402606,
+            "contentHash": "f617ce545c0b58e16678677b7736c52f27fdf9cd"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 697,
+            "modifiedTime": 1547796779991,
+            "changeTime": 1547796779991,
+            "contentHash": "18b25e21317d0870bcfa37943f98065da3924d20",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547796780020,
+            "changeTime": 1547796780020,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18155,
+            "modifiedTime": 1547796780026,
+            "changeTime": 1547796780026,
+            "contentHash": "f120b135ba78c5f28325c67ca5b5b2dd669273f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4619,
+            "modifiedTime": 1547796780009,
+            "changeTime": 1547796780009,
+            "contentHash": "4c36fb175aad23f2cf57c95453a1112717884027",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4619,
+            "modifiedTime": 1547796780000,
+            "changeTime": 1547796780000,
+            "contentHash": "4c36fb175aad23f2cf57c95453a1112717884027",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4957,
+            "modifiedTime": 1547796780005,
+            "changeTime": 1547796780005,
+            "contentHash": "a4cffd96187afc469d34092eff3f1cbfc74d63e2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547796779993,
+            "changeTime": 1547796779993,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 303,
+            "modifiedTime": 1547796779994,
+            "changeTime": 1547796779994,
+            "contentHash": "99c4a8ec0ad4b7acb300a723ea1ed1061a6a0ed2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799529441,
+            "changeTime": 1547799529441,
+            "contentHash": "8bfc6131607f24313b4dc7415efd0b72eeb1f8d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547800032118,
+            "changeTime": 1547800032118,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552807,
+            "changeTime": 1547799552807,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552825,
+            "changeTime": 1547799552825,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552818,
+            "changeTime": 1547799552818,
+            "contentHash": "2f23212b50a83c6f1bd3b906c82b2cbaaceee0ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552819,
+            "changeTime": 1547799552819,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1547799552818,
+            "changeTime": 1547799552818,
+            "contentHash": "fc2433a634f223435a01da80934238039f724b21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1547799552819,
+            "changeTime": 1547799552819,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552809,
+            "changeTime": 1547799552809,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+            "isDirectory": false,
+            "size": 917,
+            "modifiedTime": 1547799552808,
+            "changeTime": 1547799552808,
+            "contentHash": "6aabf819a1e1b796bfcdd5602e5d72994b00ac1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1547799552809,
+            "changeTime": 1547799552809,
+            "contentHash": "67ed1f5733b1ce65f40dc2cd4dc35a8bd63a6b3c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552814,
+            "changeTime": 1547799552814,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5483,
+            "modifiedTime": 1547799552810,
+            "changeTime": 1547799552810,
+            "contentHash": "2e432c4f45ae25d2ffe0f8550edaa136ce33cd72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1547799552810,
+            "changeTime": 1547799552810,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1547799552811,
+            "changeTime": 1547799552811,
+            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1547799552812,
+            "changeTime": 1547799552812,
+            "contentHash": "1ab870c096696a3c08082e2416ed2b2f4ebbf4d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1021,
+            "modifiedTime": 1547799552813,
+            "changeTime": 1547799552813,
+            "contentHash": "cd1ea0dfa3cf906fdec342699622ed85ed00d1af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1085,
+            "modifiedTime": 1547799552813,
+            "changeTime": 1547799552813,
+            "contentHash": "bf9279ede7dc946bed67264287c14d6108974cf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5924,
+            "modifiedTime": 1547799552814,
+            "changeTime": 1547799552814,
+            "contentHash": "84ba6ce9a3e20fbcb0e9f55545eb1e6d13bee40d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 738,
+            "modifiedTime": 1547799552815,
+            "changeTime": 1547799552815,
+            "contentHash": "d665b7d29b11f2eb8c02b6373c06e47346705312",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552817,
+            "changeTime": 1547799552817,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+            "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1547799552815,
+            "changeTime": 1547799552815,
+            "contentHash": "fae52a427064a301ace9fc689e9cf859b1de43e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1547799552816,
+            "changeTime": 1547799552816,
+            "contentHash": "20374ea20c0da58fb533b70b688c82384c590c03",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1547799552817,
+            "changeTime": 1547799552817,
+            "contentHash": "82df0e7b416e9a9a797701c72b510d71d8909b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 2042,
+            "modifiedTime": 1547799552818,
+            "changeTime": 1547799552818,
+            "contentHash": "74d2133713841f14daa33d3c87fdeb29e09b4ca3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552824,
+            "changeTime": 1547799552824,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1547799552820,
+            "changeTime": 1547799552820,
+            "contentHash": "de1151d4a6d414d95b7bea943be4d2406363ff54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1547799552820,
+            "changeTime": 1547799552820,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 829,
+            "modifiedTime": 1547799552821,
+            "changeTime": 1547799552821,
+            "contentHash": "854a69c44213389336401c045649d80bd0cb59c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1547799552822,
+            "changeTime": 1547799552822,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1547799552823,
+            "changeTime": 1547799552823,
+            "contentHash": "b948c3afe75b12d147b48bd2e22496000622a4ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1547799552823,
+            "changeTime": 1547799552823,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1143,
+            "modifiedTime": 1547799552824,
+            "changeTime": 1547799552824,
+            "contentHash": "648d69af87ee21de3e02c7927702ad1c425a60c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1547799552824,
+            "changeTime": 1547799552824,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552825,
+            "changeTime": 1547799552825,
+            "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1547799552825,
+            "changeTime": 1547799552825,
+            "contentHash": "a0ad435300a759ecf99cdd0add238f95edc395e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547799552827,
+            "changeTime": 1547799552827,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1547799552827,
+            "changeTime": 1547799552827,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc dx project\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1547799552828,
+            "changeTime": 1547799552828,
+            "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3921,
+            "modifiedTime": 1547800402400,
+            "changeTime": 1547800402400,
+            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1547800402407,
+            "changeTime": 1547800402407,
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1547800402414,
+            "changeTime": 1547800402414,
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1547800402428,
+            "changeTime": 1547800402428,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1547800402434,
+            "changeTime": 1547800402434,
+            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1547800402440,
+            "changeTime": 1547800402440,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1547800402446,
+            "changeTime": 1547800402446,
+            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1547800402452,
+            "changeTime": 1547800402452,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1547800402458,
+            "changeTime": 1547800402458,
+            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1547800402465,
+            "changeTime": 1547800402465,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1547800402470,
+            "changeTime": 1547800402470,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1547800402476,
+            "changeTime": 1547800402476,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1547800402481,
+            "changeTime": 1547800402481,
+            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1547800402489,
+            "changeTime": 1547800402489,
+            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1547800402494,
+            "changeTime": 1547800402494,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1547800402501,
+            "changeTime": 1547800402501,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1547800402505,
+            "changeTime": 1547800402505,
+            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1547800402512,
+            "changeTime": 1547800402512,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1547800402517,
+            "changeTime": 1547800402517,
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1547800402522,
+            "changeTime": 1547800402522,
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1547800402527,
+            "changeTime": 1547800402527,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1547800402534,
+            "changeTime": 1547800402534,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1547800402538,
+            "changeTime": 1547800402538,
+            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1547800402546,
+            "changeTime": 1547800402546,
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1547800402552,
+            "changeTime": 1547800402552,
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1547800402558,
+            "changeTime": 1547800402558,
+            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1547800402563,
+            "changeTime": 1547800402563,
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1547800402568,
+            "changeTime": 1547800402568,
+            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1547800402573,
+            "changeTime": 1547800402573,
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1547800402578,
+            "changeTime": 1547800402578,
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1547800402583,
+            "changeTime": 1547800402583,
+            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1547800402608,
+            "changeTime": 1547800402608,
+            "contentHash": "bf6b3223e81baf11156f574c49b181768fe7c596"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547800402400,
+            "changeTime": 1547800402400,
+            "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547800402392,
+            "changeTime": 1547800402392,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc dx project\\Demo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547800402579,
+            "changeTime": 1547800402579,
+            "contentHash": "fc084546f56879d9a97e6e4367f2abae2a1035f3"
+        }
+    ]
+]
